@@ -12,7 +12,7 @@
   <a href="https://www.behance.net/thaiveira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="23" alt="behance logo"  />
   </a>
-  <a href="https://www.instagram.com/thaiveira/" target="_blank">
+  <a href="https://www.instagram.com/2code4coffee/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="23" alt="instagram logo"  />
   </a>
 </div>
