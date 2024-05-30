@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I’m Thai, Laboratoria student in data analysis<br>👀 I’m interested in BI Analytics, Cloud Computing, AI & Machine Learning<br>🌱 I’m currently learning Microsoft Power BI, Statistic and IA<br>💞️ I’m looking to collaborate on activities that can help in the perception of skills to improve studies in data analysis<br>💁‍♀️ Pronouns: She<br>☕ Fun fact: Yes, I'm analyzing data so I can buy more coffee cozy times</p>
+<p align="left">👋 Sou Thai, Estudante da Laboratoria em Análise de Dados, estou transicionando do Design para o Tech <br>👀 Tenho interesse em Análise BI, Computação em Nuvem, AI & Machine Learning<br>🌱 Atualmente estou estudando Business Intelligence, Microsoft Power BI, Estatística e IA <br>💞️ Procuro por colaborações, interações e atividades que ajudem na percepção de negócios e skills necessárias em Análise de Dados <br>💁‍♀️ Pronomes: Ela, mas se chamar de Ele nem corrijo tanto faz <br>☕ Fun fact: Sim, Estou analisando dados para comprar mais café em espaços aconchegantes </p>
 
 ###
 
