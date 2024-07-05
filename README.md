@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/thaise-oliveira-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="23" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCnn4D0aE44dhUPc-UIYROTQ" target="_blank">
+  <a href="https://www.youtube.com/@2code4coffee/playlists" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="23" alt="youtube logo"  />
   </a>
   <a href="https://cara.app/2art4coffee" target="_blank">
