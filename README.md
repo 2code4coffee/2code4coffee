@@ -1,8 +1,14 @@
-<p align="left">👋 Oi eu sou a Thai, Estudante da Laboratoria em Análise de Dados, estou transicionando do Design para o Tech <br>👀 Tenho interesse em Análise BI, Computação em Nuvem e Soluções empresariais <br>👨‍💻 Atualmente estou estudando Business Intelligence, Microsoft Power BI, Estatística e AWS <br>💞️ Procuro por colaborações, interações e atividades que ajudem na percepção de negócios e skills necessárias em Análise de Dados <br>💁‍♀️ Pronomes: Ela, mas se chamar de Ele nem corrijo, tanto faz <br>☕ Fun fact: Sim, Estou analisando dados para comprar bons cafés, momentos aconchegantes e jogos online </p>
+👋 Hi I'm Thai, Data Analysis Student and Designer　　  　　  　⢕⢕⢕⢕⠁⢜⠕⢁⣴⣿⡇⢓⢕⢵⢐⢕⢕⠕⢁⣾⢿⣧⠑⢕⢕⠄⢑⢕⠅⢕<br>
+👀 I'm interested in good and pretty solutions 　　　　 　　  　⢕⢕⠵⢁⠔⢁⣤⣤⣶⣶⣶⡐⣕⢽⠐⢕⠕⣡⣾⣶⣶⣶⣤⡁⢓⢕⠄⢑⢅⢑<br>
+👨‍💻 I'm currently studying Business Intelligence　　　　  　　   　⢐⢕⣧⠄⣶⣾⣿⣿⣿⣿⣿⣿⣷⣔⢕⢄⢡⣾⣿⣿⣿⣿⣿⣿⣿⣦⡑⢕⢤⠱<br>
+💞️ I'm in love with PowerBI, VSCode and Github　　　　　 　⢠⢕⠅⣾⣿⠋⢿⣿⣿⣿⠉⣿⣿⣷⣦⣶⣽⣿⣿⠈⣿⣿⣿⣿⠏⢹⣷⣷⡅⢐<br>
+💁‍♀️ Pronouns: She, but if you call me He I don't mind 　　 　 　⣔⢕⢥⢻⣿⡀⠈⠛⠛⠁⢠⣿⣿⣿⣿⣿⣿⣿⣿⡀⠈⠛⠛⠁⠄⣼⣿⣿⡇⢔<br>
+☕ Yes, I'm analyzing data to buy good coffees and games　  　⢕⢕⢽⢸⢟⢟⢖⢖⢤⣶⡟⢻⣿⡿⠻⣿⣿⡟⢀⣿⣦⢤⢤⢔⢞⢿⢿⣿⠁⢕<br>
+🔗 Social links below my icon  　　　  　　　  　 　　  　　  　 　⢕⢕⠅⣐⢕⢕⢕⢕⢕⣿⣿⡄⠛⢀⣦⠈⠛⢁⣼⣿⢗⢕⢕⢕⢕⢕⢕⡏⣘⢕<br>
+💬 Fell free to interact with me　　  　　　  　　 　　 　 　　　 ⢕⢕⠅⢓⣕⣕⣕⣕⣵⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣷⣕⢕⢕⢕⢕⡵⢀⢕⢕<br>
+　　  　　　  　　　  　　　  　　　  　　　  　　　  　  　　　 　　
+　　  　　　  　　　  　　　  　　　  　　　  　　　  　　　　  　 　 
+　
 
-:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
-</div>
 
-###
-👋 Hi I'm Thai, Data Analysis Laboratoria Student, I'm transitioning from Design to Tech <br> 👀 I'm interested in BI Analytics, Cloud Computing and Business Solutions <br>👨‍💻 I'm currently studying Business Intelligence, Microsoft Power BI, Statistics and AWS <br> 💞️ I'm looking for collaborations, interactions and activities that increase perception of business and skills needed in Data Analysis <br>
-💁 Pronouns: She, but if you call me He I don't even correct it, it doesn't matter for me <br> ☕ fact: Yes, I'm analyzing data to buy good coffees, cozy moments and online games </p>
+
