@@ -11,7 +11,7 @@
   <a href="https://www.credential.net/e3355f33-2033-4454-acc5-2ce1bb950bff">
     <img src="https://avatars.githubusercontent.com/u/7280695?s=200&v=4" alt="Minha Certificação" width="52"/>
 
-  <a href="https://cursos.escoladanuvem.org/certificate-validation?credentialId=undefined">
+  <a href="https://www.linkedin.com/in/thaise-oliveira-/details/certifications/1731615086283/single-media-viewer/?profileId=ACoAAEfmuy0BYaK5HLpyu0aUqcZZiftnEg50qnY">
     <img src="https://avatars.githubusercontent.com/u/73475298?s=200&v=4" alt="Minha Certificação" width="52"/>
     
 <a href="https://www.credly.com/users/thaise-oliveira-">
