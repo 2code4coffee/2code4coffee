@@ -1,11 +1,11 @@
-👋 Hi I'm Thai, Tech Student and Designer　　     　　　　　　     　⢕⢕⢕⢕⠁⢜⠕⢁⣴⣿⡇⢓⢕⢵⢐⢕⢕⠕⢁⣾⢿⣧⠑⢕⢕⠄⢑⢕⠅⢕<br>
-👀 I'm interested in good and pretty solutions 　　　　 　　  　⢕⢕⠵⢁⠔⢁⣤⣤⣶⣶⣶⡐⣕⢽⠐⢕⠕⣡⣾⣶⣶⣶⣤⡁⢓⢕⠄⢑⢅⢑<br>
-👨‍💻 I'm currently studying AWS and Data Engineering/Analysis　⢐⢕⣧⠄⣶⣾⣿⣿⣿⣿⣿⣿⣷⣔⢕⢄⢡⣾⣿⣿⣿⣿⣿⣿⣿⣦⡑⢕⢤⠱<br>
-💞️ Hobbies: Games 🎮 |  Photo 📷 | Drawing 🎨　　　　　 　 ⢠⢕⠅⣾⣿⠋⢿⣿⣿⣿⠉⣿⣿⣷⣦⣶⣽⣿⣿⠈⣿⣿⣿⣿⠏⢹⣷⣷⡅⢐<br>
-💁‍♀️ Pronouns: She, but if you call me He I don't mind 　　 　 　⣔⢕⢥⢻⣿⡀⠈⠛⠛⠁⢠⣿⣿⣿⣿⣿⣿⣿⣿⡀⠈⠛⠛⠁⠄⣼⣿⣿⡇⢔<br>
-☕ Yes, I'm analyzing data to buy good coffees and games　  　⢕⢕⢽⢸⢟⢟⢖⢖⢤⣶⡟⢻⣿⡿⠻⣿⣿⡟⢀⣿⣦⢤⢤⢔⢞⢿⢿⣿⠁⢕<br>
-🔗 Social links below my icon  　　　  　　　  　 　　  　　  　 　⢕⢕⠅⣐⢕⢕⢕⢕⢕⣿⣿⡄⠛⢀⣦⠈⠛⢁⣼⣿⢗⢕⢕⢕⢕⢕⢕⡏⣘⢕<br>
-💬 Fell free to interact with me　　  　　　  　　 　　 　 　　　 ⢕⢕⠅⢓⣕⣕⣕⣕⣵⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣷⣕⢕⢕⢕⢕⡵⢀⢕⢕<br>
+👋 Hi I'm Thai, Tech Student and Designer　　     　　　　　　     　
+👀 I'm interested in good and pretty solutions 　　　　 　　 
+👨‍💻 I'm currently studying AWS and Data Engineering/Analysis　
+💞️ Hobbies: Games 🎮 |  Photo 📷 | Drawing 🎨　　　　　 　 
+💁‍♀️ Pronouns: She, but if you call me He I don't mind 　　 　 
+☕ Yes, I'm analyzing data to buy good coffees and games　  
+🔗 Social links below my icon  　　　  　　　  　 　　  　　  　
+💬 Fell free to interact with me　　  　　　  　　 　　 　 　　　
 　　  　　　  　　　  　　　  　　　  　　　  　　　  　  　　　 　　
 #### Graduations and Badges
   <a href="https://www.credential.net/e3355f33-2033-4454-acc5-2ce1bb950bff">
