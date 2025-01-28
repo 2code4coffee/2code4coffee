@@ -10,12 +10,11 @@
 #### Graduations and Badges
   <a href="https://www.credential.net/e3355f33-2033-4454-acc5-2ce1bb950bff">
     <img src="https://avatars.githubusercontent.com/u/7280695?s=200&v=4" alt="Minha Certificação" width="52"/>
-
+<a href="https://www.credly.com/users/thaise-oliveira-">
+    <img src="https://www.gmetrix.com/Images/Photos/AWS/AWSLogo1.png" width="49"/>
   <a href="https://www.linkedin.com/in/thaise-oliveira-/details/certifications/1731615086283/single-media-viewer/?profileId=ACoAAEfmuy0BYaK5HLpyu0aUqcZZiftnEg50qnY">
     <img src="https://avatars.githubusercontent.com/u/73475298?s=200&v=4" alt="Minha Certificação" width="52"/>
-    
-<a href="https://www.credly.com/users/thaise-oliveira-">
-    <img src="https://yt3.googleusercontent.com/1-zNalzhfIP2LSWrGIT4l-9P8MjUhgHCXGB1Q6kHibyNlRvafBYQMfoI5qnSk1L5V8N705J4fw=s160-c-k-c0x00ffffff-no-rj" alt="Minha Certificação" width="52"/>
+  
 </a>
 
 
