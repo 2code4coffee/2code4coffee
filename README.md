@@ -30,9 +30,8 @@
 
   
 ### :octocat: GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=2code4coffee&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=2code4coffee&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2code4coffee&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<!-- Created with GPRM Help ( https://gprm.itsvg.in ) -->
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
