@@ -30,9 +30,9 @@
 
   
 ### :octocat: GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2code4coffee&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=2code4coffee&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2code4coffee&show_icons=true&theme=calm_pink" alt="Card status Github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2code4coffee&hide_progress=true&theme=calm_pink" alt="Card status Github"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
