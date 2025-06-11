@@ -1,5 +1,5 @@
 ### 💫 About Me:
-👋 Hi I'm Thai, Bachelor's Degree in Graphic Design and an Data Analyst learning Data Engineering too <br>👀 I'm interested in good and pretty solutions<br>👨‍💻 I'm currently studying AWS, Statistics  and Pyspark/Airflow <br>💞️ Hobbies: Games 🎮 | Photo 📷 | Painting 🎨<br>💁‍♀️ Pronouns: She, but if you call me He I don't mind<br>☕ Yes, I'm analyzing data to buy good coffees and games<br>🔗 Social links below my icon<br>💬 Fell free to interact with me
+👋 Hi I'm Thai, Bachelor's Degree in Graphic Design and an Data Analyst learning Data Engineering too <br>👀 I'm interested in good and pretty solutions<br>👨‍💻 I'm currently studying AWS, Statistics  and Pyspark/Airflow <br>💞️ Hobbies: Games 🎮 | Photo 📷 | Painting 🎨<br>💁‍♀️ Pronouns: She, but if you call me He I don't mind<br>☕ Yes, I work to have good coffee and games.<br>🔗 Social links below my icon<br>💬 Fell free to interact with me
 
 
 ### 💻 Tech Stack:
