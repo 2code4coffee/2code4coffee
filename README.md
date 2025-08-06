@@ -13,7 +13,7 @@
 ### 🎓 Degrees and Courses:
 
 <a href="https://www.unifacs.br/graduacao/design-2/">
-    <img src="https://scontent-for2-2.xx.fbcdn.net/v/t39.30808-6/462615945_559425663279626_9137256802061725188_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oHyittqXyYQQ7kNvwGoTJhD&_nc_oc=AdmNCQWwulZtt2PXNcE-6pH3-ZoVJ92SeDz3rIHSnOePljjZQOgrQ5qbvULNx7uK6JeX90Rs-RwpTyKDhjVA-UXZ&_nc_zt=23&_nc_ht=scontent-for2-2.xx&_nc_gid=CSBJPOXpRC8q3sN3j7vTmQ&oh=00_AfS0Lzh__mcFxTe74g8ZEA7RbK85CICtEbvECz6HPqeeUA&oe=6880C961" alt="Minha Certificação" width="52"/>
+    <img src="https://scontent-for2-1.xx.fbcdn.net/v/t39.30808-6/462615945_559425663279626_9137256802061725188_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=9Zjo3h8Dme8Q7kNvwFkQOJX&_nc_oc=AdmVtx3gjxPNGoft8Ksj1xH9aQr0Of2SC0gDaAncu7SK6tR9fryvFX3qWXwPz0eFLdR9ZGHF9dmmxX-vioY06FNv&_nc_zt=23&_nc_ht=scontent-for2-1.xx&_nc_gid=_utpICU3tZ5RVABw25wZdQ&oh=00_AfWgI5I9LZkhCmIA80J-qi6RecO42jwHGHK6dZZAXVdAJQ&oe=6898BCA1" alt="Minha Certificação" width="52"/>
   <a href="https://www.credential.net/e3355f33-2033-4454-acc5-2ce1bb950bff">
     <img src="https://avatars.githubusercontent.com/u/7280695?s=200&v=4" alt="Minha Certificação" width="52"/>
 <a href="https://www.credly.com/users/thaise-oliveira-">
