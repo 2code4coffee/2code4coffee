@@ -1,5 +1,5 @@
 ### 💫 About Me:
-👋 Hi I'm Thai, Bachelor's Degree in Graphic Design and an Data Analyst learning Data Engineering too <br>👀 I'm interested in good and pretty solutions<br>👨‍💻 I'm currently studying AWS, Statistics  and Pyspark/Airflow <br>💞️ Hobbies: Games 🎮 | Photo 📷 | Painting 🎨<br>💁‍♀️ Pronouns: She, but if you call me He I don't mind<br>☕ Yes, I work to have good coffee and games.<br>🔗 Social links below my icon<br>💬 Fell free to interact with me
+👋 Hi I'm Thai, Fullstack enthusiast and Bachelor's in Graphic Design <br>👀 I'm interested in good and pretty solutions<br>👨‍💻 I'm currently studying AWS, Statistics and ETL <br>💞️ Hobbies: Games 🎮 | Photo 📷 | Painting 🎨<br>💁‍♀️ Pronouns: She, but if you call me He I don't mind<br>☕ Yes, I work to have good coffee.<br>🔗 Social links below my icon<br>💬 Fell free to interact with me
 
 
 ### 💻 Tech Stack:
@@ -13,7 +13,7 @@
 ### 🎓 Degrees and Courses:
 
 <a href="https://www.unifacs.br/graduacao/design-2/">
-    <img src="https://scontent-for2-1.xx.fbcdn.net/v/t39.30808-6/462615945_559425663279626_9137256802061725188_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=9Zjo3h8Dme8Q7kNvwFkQOJX&_nc_oc=AdmVtx3gjxPNGoft8Ksj1xH9aQr0Of2SC0gDaAncu7SK6tR9fryvFX3qWXwPz0eFLdR9ZGHF9dmmxX-vioY06FNv&_nc_zt=23&_nc_ht=scontent-for2-1.xx&_nc_gid=_utpICU3tZ5RVABw25wZdQ&oh=00_AfWgI5I9LZkhCmIA80J-qi6RecO42jwHGHK6dZZAXVdAJQ&oe=6898BCA1" alt="Minha Certificação" width="52"/>
+    <img src="https://yt3.ggpht.com/ytc/AAUvwnh3kgjVM1u0eMMYO_A4oDuWnDNQ8bpWhgUUa6BCqA=s900-c-k-c0x00ffffff-no-rj" alt="Minha Certificação" width="52"/>
   <a href="https://www.credential.net/e3355f33-2033-4454-acc5-2ce1bb950bff">
     <img src="https://avatars.githubusercontent.com/u/7280695?s=200&v=4" alt="Minha Certificação" width="52"/>
 <a href="https://www.credly.com/users/thaise-oliveira-">
